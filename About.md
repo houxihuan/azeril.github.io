@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "嘿，你总算找到我啦"
+title: "MyResume"
+description: "Hello，你好"
 header-img: "img/plane.jpg"
 ---
 
@@ -9,16 +9,36 @@ header-img: "img/plane.jpg"
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
+##个人简历
+教育经历
+       2010.9-2014.6 北华航天工业学院 学士   自动化学院 自动化
+       2014.9-至今    哈尔滨工程大学   硕士  自动化学院  模式识别/图像处理
+技能证书
+       CET-6
+       电工证
+       计算机二级证
+专业技能
+        熟悉 C/C++ 编程语言 
+        熟悉 Visual Studio 开发环境
+        熟悉 openGL, openCV库
+        熟悉常用的数据结构及算法
+        了解Git版本控制工具等
+项目经理
+        [AntEngine图形引擎开发]()
+获奖情况
+        本科期间：获国家励志奖学金1次
+                 获CASC二等奖学金1次
+                 获“河北省优秀毕业生”荣誉称号
 
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
-
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
-
-——Azeril
+        研究生期间：一等奖学金2次，二等奖学金1次
+ 兴趣爱好
+         羽毛球，瑜伽，健身操
 
 
-> Live long and prosper
+
+
+
+> Step Foward Everyday
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
