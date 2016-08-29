@@ -1,5 +1,5 @@
 # Site settings
-title: Microdust
+title: resume
 header-img: "img/autumn2.jpg"
 tagline: "吉光片羽"  
 description: "每天进步一小步"  
@@ -9,8 +9,8 @@ url: "http://azeril.me"
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
+  name: "houmaster"
+  email: diligent_hxh@126.com
   bio: "明朝即長路 惜取此時心"
 
 # Data
