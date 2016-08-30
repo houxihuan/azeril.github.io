@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MyResume"
-description: "Hello，你好"
+description: "Hello，你好,我在这里"
 header-img: "img/plane.jpg"
 ---
 
